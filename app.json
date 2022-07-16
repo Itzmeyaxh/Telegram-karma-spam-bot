@@ -1,7 +1,7 @@
 {
     "name": "Telegram karma spam bot",
     "description": "for xen",
-    "repository": "https://github.com/chaprimayank/Telegram-karma-spam-bot",
+    "repository": "https://github.com/Itzmeyaxh/Telegram-karma-spam-bot",
     "image": "heroku/python",
     "env": {
         "MSG_ID": {
